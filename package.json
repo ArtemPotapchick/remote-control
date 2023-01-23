@@ -17,6 +17,7 @@
     "license": "ISC",
     "devDependencies": {
         "@types/node": "^18.11.18",
+        "@types/ws": "^8.5.4",
         "@typescript-eslint/eslint-plugin": "^5.48.2",
         "@typescript-eslint/parser": "^5.48.2",
         "eslint": "^8.32.0",
@@ -27,6 +28,7 @@
     },
     "dependencies": {
         "@nut-tree/nut-js": "^2.3.0",
+        "jimp": "^0.16.2",
         "ws": "^8.8.0"
     }
 }
